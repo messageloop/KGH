@@ -1,0 +1,6 @@
+{
+	"model" : "CAM",
+	"version" : "1.0.1",
+	"url" : "http://192.168.12.195/cam_fw.bin.rsa",
+	"description" : "cam"
+}
