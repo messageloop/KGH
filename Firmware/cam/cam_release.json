@@ -2,5 +2,5 @@
 	"model" : "CAM",
 	"version" : "1.0.2",
 	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/release180323fw.bin.rsa",
-	"description" : "cam"
+	"description" : "cam test release180323fw.bin.rsa"
 }
