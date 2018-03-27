@@ -1,6 +1,6 @@
 {
 	"model" : "CAM",
 	"version" : "1.0.2",
-	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/debug-180323-10002-3417-koogeek-ipcam-16-fw.bin.rsa",
+	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/debug180323fw.bin.rsa",
 	"description" : "cam"
 }
