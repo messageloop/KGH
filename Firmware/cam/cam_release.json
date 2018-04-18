@@ -1,6 +1,6 @@
 {
 	"model" : "CAM",
-	"version" : "1.0.6",
-	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/201804171821fw.bin.rsa",
-	"description" : "1.0.6 201804171822"
+	"version" : "1.0.7",
+	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/20180418fw.bin.rsa",
+	"description" : "1.0.7 201804181604"
 }
