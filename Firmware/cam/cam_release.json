@@ -1,6 +1,6 @@
 {
 	"model" : "KC01",
-	"version" : "1.0.9",
-	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/180605-10009-3570-koogeek-ipcam-16-fw.bin.rsa",
-	"description" : "1.0.9 release "
+	"version" : "1.1.0",
+	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/180621-10010-3578-koogeek-ipcam-16-fw.bin.rsa",
+	"description" : "1.1.0 release "
 }
