@@ -1,6 +1,6 @@
 {
 	"model" : "KC01",
-	"version" : "1.0.22",
-	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/181112-10022-3935-koogeek-ipcam-16-fw.bin.rsa",
-    "description" : "1.0.22  date:14.56 test off line problem"
+	"version" : "1.0.23",
+	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/181121-10023-3943-koogeek-ipcam-16-fw.bin.rsa",
+    "description" : "1.0.23  date:19.43 initial时间加长"
 }
